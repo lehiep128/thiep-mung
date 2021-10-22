@@ -1,5 +1,5 @@
 const nameGirl = '';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/cucpeocute';
 const eventName = 'Chúc Mừng 1 năm bên nhao';
 const titleCard = 'Tặng người iu chinh gái của a';
 const contentCard = 'Chúc mừng 1 năm yêu nhau của chúng mình hê hê. Chúc ny chính gái cute của a luôn tràn ngập niềm vui và những nụ cười. Mong những điều đẹp đẽ nhất sẽ đến với bông hoa đẹp nhất của đời a. Anh iu em <3';
